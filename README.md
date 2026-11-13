@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://portnov26.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=FF7A00&width=640&lines=I+engineer+systems+that+hold+up+under+load.;I+teach+models+to+see+what's+coming+next.;Online+judges+%C2%B7+real-time+apps+%C2%B7+forecasting;9+research+papers+%C2%B7+IEEE+%C2%B7+Springer" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=FF7A00&width=640&lines=I+engineer+systems+that+hold+up+under+load.;I+teach+models+to+see+what's+coming+next.;Scalable Systems+%C2%B7+real-time+apps+%C2%B7+forecasting;9+research+papers+%C2%B7+IEEE+%C2%B7+Springer" alt="Typing intro" />
   </a>
 </p>
 
