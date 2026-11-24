@@ -38,12 +38,7 @@
     />
   </a>
 
-  <a href="https://github.com/blando17">
-    <img
-      src="https://img.shields.io/badge/GitHub-0B0C0F?style=for-the-badge&logo=github&logoColor=FF7A00"
-      alt="GitHub"
-    />
-  </a>
+
 
   <a href="https://leetcode.com/u/blando_17/">
     <img
